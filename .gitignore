@@ -1,0 +1,11 @@
+scan_output/
+scan_results/
+wpc-targets/
+wordfence_db.json
+.env
+__pycache__/
+dashboard/node_modules/
+dashboard/tmp/
+dashboard/tsconfig.tsbuildinfo
+*.bak
+*.bak
